@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="vitalis" size="1.000000 0.650233" />
+    <ImageTarget name="caj" size="1.000000 0.656810" />
+    <ImageTarget name="miniC" size="1.000000 0.749938" />
+  </Tracking>
+</QCARConfig>

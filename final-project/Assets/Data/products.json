@@ -1,0 +1,35 @@
+{
+"products": 
+[
+  {
+    "id": 1,
+    "name": "Wireless Mouse",
+    "price": 19.99,
+    "stock": 120
+  },
+  {
+    "id": 2,
+    "name": "Mechanical Keyboard",
+    "price": 79.5,
+    "stock": 45
+  },
+  {
+    "id": 3,
+    "name": "USB-C Hub",
+    "price": 34.99,
+    "stock": 200
+  },
+  {
+    "id": 4,
+    "name": "Gaming Headset",
+    "price": 59.0,
+    "stock": 75
+  },
+  {
+    "id": 5,
+    "name": "4K Monitor",
+    "price": 299.99,
+    "stock": 15
+  }
+]
+}
